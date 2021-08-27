@@ -240,7 +240,24 @@ section {
   border-radius: 4px;
   color: #fff;
 }
-
+.cta-btn {
+  margin-left: 40%;
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 25px;
+  transition: 0.5s;
+  margin-top: 10px;
+  border: 2px solid #4154f1;
+  color: #4154f1;
+}
+.cta-btn:hover{
+  color:#fff;
+  background: #4154f1;
+}
 .navbar .getstarted:hover {
   color: #fff;
   background: #5969f3;
